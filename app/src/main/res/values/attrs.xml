@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="onlyView">
+
+        <attr name="selfColor" format="color"/>
+        <attr name="selfSize" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>

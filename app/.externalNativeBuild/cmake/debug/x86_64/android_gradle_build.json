@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/funplus/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/funplus/funplus_work_something/newdemo/ndkDemo/app/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"hello-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "hello",
+			"buildCommand" : "/Users/funplus/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/funplus/funplus_work_something/newdemo/ndkDemo/app/.externalNativeBuild/cmake/debug/x86_64 --target hello",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=/Users/funplus/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/funplus/Library/Android/sdk/ndk-bundle/sysroot  -Dhello_EXPORTS -isystem /Users/funplus/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/funplus/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem /Users/funplus/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/funplus/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/src/main/jni/diandian_myapplication_MainActivity.cpp",
+					"workingDirectory" : "/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/.externalNativeBuild/cmake/debug/x86_64"
+				}
+			],
+			"output" : "/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/build/intermediates/cmake/debug/obj/x86_64/libhello.so",
+			"toolchain" : "8345025592555636631"
+		}
+	},
+	"toolchains" : 
+	{
+		"8345025592555636631" : 
+		{
+			"cCompilerExecutable" : "/Users/funplus/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/funplus/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Executable : /Users/funplus/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/funplus/funplus_work_something/newdemo/ndkDemo/app
+-B/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/.externalNativeBuild/cmake/release/mips
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=mips
+-DANDROID_NDK=/Users/funplus/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/funplus/funplus_work_something/newdemo/ndkDemo/app/build/intermediates/cmake/release/obj/mips
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/Users/funplus/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/funplus/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-15
+-DCMAKE_CXX_FLAGS=
+jvmArgs : 
+

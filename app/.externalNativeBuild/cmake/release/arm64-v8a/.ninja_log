@@ -1,0 +1,7 @@
+# ninja log v5
+0	105	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	3e9906f30996161a
+106	258	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libhello.so	bd7d85d723683b87
+0	62	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	3e9906f30996161a
+62	90	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libhello.so	bd7d85d723683b87
+0	62	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	3e9906f30996161a
+62	110	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libhello.so	bd7d85d723683b87

@@ -1,0 +1,7 @@
+# ninja log v5
+0	439	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	4ff24b40521ff6df
+439	505	0	../../../../build/intermediates/cmake/release/obj/mips64/libhello.so	2ad04ed9a1869c5a
+0	125	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	4ff24b40521ff6df
+125	155	0	../../../../build/intermediates/cmake/release/obj/mips64/libhello.so	2ad04ed9a1869c5a
+0	381	0	CMakeFiles/hello.dir/src/main/jni/diandian_myapplication_MainActivity.cpp.o	4ff24b40521ff6df
+381	437	0	../../../../build/intermediates/cmake/release/obj/mips64/libhello.so	2ad04ed9a1869c5a
